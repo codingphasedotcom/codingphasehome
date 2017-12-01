@@ -1,5 +1,5 @@
 secret_key_base: R91pMZ5uJX-ZmWFwmx9A9i46gmUAE8AkdtNXdMPs21A
-port: (ENV["PORT"] || 3000).to_i
+port: 3000
 name: codingphase
 log: "::Logger.new(STDOUT)"
 log_level: "::Logger::INFO"
