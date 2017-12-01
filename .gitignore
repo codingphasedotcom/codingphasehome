@@ -6,6 +6,7 @@
 /tmp/
 .env
 .amber_secret_key
+node_modules
 production.yml
 .DS_Store
 /bin/
